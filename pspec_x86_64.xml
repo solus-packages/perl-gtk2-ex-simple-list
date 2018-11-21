@@ -2,8 +2,8 @@
     <Source>
         <Name>perl-gtk2-ex-simple-list</Name>
         <Packager>
-            <Name>Simon Friend</Name>
-            <Email>simbiotiqu@gmail.com</Email>
+            <Name>Pierre-Yves</Name>
+            <Email>pyu@riseup.net</Email>
         </Packager>
         <License>GPL-2.0+</License>
         <PartOf>programming.perl</PartOf>
@@ -19,20 +19,20 @@
 </Description>
         <PartOf>programming.perl</PartOf>
         <Files>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/Gtk2/Ex/Simple/List.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/Gtk2/Ex/Simple/TiedCommon.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/Gtk2/Ex/Simple/TiedList.pm</Path>
-            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.26/x86_64-linux-thread-multi/auto/Gtk2/Ex/Simple/List/.packlist</Path>
-            <Path fileType="man">/usr/share/man</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/Gtk2/Ex/Simple/List.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/Gtk2/Ex/Simple/TiedCommon.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/Gtk2/Ex/Simple/TiedList.pm</Path>
+            <Path fileType="library">/usr/lib64/perl5/vendor_perl/5.28/x86_64-linux-thread-multi/auto/Gtk2/Ex/Simple/List/.packlist</Path>
+            <Path fileType="man">/usr/share/man/man3/Gtk2::Ex::Simple::List.3</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2018-01-26</Date>
+        <Update release="2">
+            <Date>2018-11-21</Date>
             <Version>0.50</Version>
             <Comment>Packaging update</Comment>
-            <Name>Simon Friend</Name>
-            <Email>simbiotiqu@gmail.com</Email>
+            <Name>Pierre-Yves</Name>
+            <Email>pyu@riseup.net</Email>
         </Update>
     </History>
 </PISI>
