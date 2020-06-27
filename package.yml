@@ -1,6 +1,6 @@
 name       : perl-gtk2-ex-simple-list
 version    : '0.50'
-release    : 3
+release    : 4
 source     :
     - http://search.cpan.org/CPAN/authors/id/R/RM/RMCFARLA/Gtk2-Perl-Ex/Gtk2-Ex-Simple-List-0.50.tar.gz : 62df53d0da396aba8e96aee06d869a77b8cf54af2ebd9df885b7aef2d5a207b5
 license    : GPL-2.0+
