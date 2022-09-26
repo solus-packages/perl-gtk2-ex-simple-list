@@ -1,12 +1,11 @@
 name       : perl-gtk2-ex-simple-list
 version    : '0.50'
-release    : 4
+release    : 5
 source     :
     - http://search.cpan.org/CPAN/authors/id/R/RM/RMCFARLA/Gtk2-Perl-Ex/Gtk2-Ex-Simple-List-0.50.tar.gz : 62df53d0da396aba8e96aee06d869a77b8cf54af2ebd9df885b7aef2d5a207b5
 license    : GPL-2.0+
 component  : programming.perl
-summary    : A simple interface to the powerful but complex Gtk2::TreeView and Gtk2::ListStore
-    combination.
+summary    : A simple interface to the powerful but complex Gtk2::TreeView and Gtk2::ListStore combination.
 description: |
     Gtk2 has a powerful, but complex MVC (Model, View, Controller) system used to implement list and tree widgets. Gtk2::Ex::Simple::List automates the complex setup work and allows you to treat the list model as a more natural list of lists structure.
 builddeps  :
